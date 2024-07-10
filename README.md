@@ -1,7 +1,7 @@
 # Report for Assignment 1 Resit
 
 **Name:** Whisper  
-**URL:** [https://github.com/openai/whisper](https://github.com/openai/whisper) 
+**URL:** [https://github.com/openai/whisper](https://github.com/openai/whisper)  
 **Number of lines of code and the tool used to count it:** 19,576 (Counted using [codetabs](https://codetabs.com/count-loc/count-loc-online.html))  
 **Programming language:** Python  
 **Coverage Tool used:** coverage.py  
