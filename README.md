@@ -6,15 +6,17 @@
 **Programming language:** Python  
 **Coverage Tool used:** coverage.py
 
-![Coverage Tool](Picture1.png)  
+![Coverage Tool](Picture1.png)
 
 ## Coverage Improvement
 
 ### 1. Tokenizer
 
 - **Commit made:** [8d3ded0353247f7e951f04de646e4c7f610e57d5](https://github.com/openai/whisper/commit/8d3ded0353247f7e951f04de646e4c7f610e57d5)
-- **Old coverage:** ![Old Coverage Tokenizer](Picture2.png)
-- **New coverage:** ![New Coverage Tokenizer](Picture3.png)
+- **Old coverage:**  
+  ![Old Coverage Tokenizer](Picture2.png)
+- **New coverage:**  
+  ![New Coverage Tokenizer](Picture3.png)
 - **Improvement:** The coverage improved by 11% by adding test cases for:
   - Encoding
   - Decoding
@@ -24,8 +26,10 @@
 ### 2. Audio
 
 - **Commit made:** [a5ee907d7315160d1747aedc55b5ada7b6ec964a](https://github.com/openai/whisper/commit/a5ee907d7315160d1747aedc55b5ada7b6ec964a)
-- **Old coverage:** ![Old Coverage Audio](Picture4.png)
-- **New coverage:** ![New Coverage Audio](Picture5.png)
+- **Old coverage:**  
+  ![Old Coverage Audio](Picture4.png)
+- **New coverage:**  
+  ![New Coverage Audio](Picture5.png)
 - **Improvement:** The coverage improved by 29% by adding test cases for:
   - When the device is set
   - When padding is defined
@@ -33,5 +37,7 @@
 
 ## Overall Coverage
 
-1. **Old overall coverage:** ![Old Overall Coverage](Picture6.png)
-2. **New overall coverage:** ![New Overall Coverage](Picture7.png)
+1. **Old overall coverage:**  
+   ![Old Overall Coverage](Picture6.png)
+2. **New overall coverage:**  
+   ![New Overall Coverage](Picture7.png)
